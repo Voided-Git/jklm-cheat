@@ -3,6 +3,7 @@ A simple cheat for the web game JKLM's Bomb Party gamemode. This comes with no w
 
 ### Getting started
 - Load `jklm-cheat.exe` and once it says `Initialised...`, go on the input box on JKLM, press the key selected as the `escape_key` in `config.json` (default is <kbd>/</kbd>).
+    - Only run `main.py` if you want to run the cheat in Python (for which you need to install [Python](https://python.org) and the dependencies `keyboard` and `playsound`).
 - Type the prompt given (for example `ali`) and press the key selected as the `confirm_key` in `config.json` (default is <kbd>-</kbd>).
 - Now if the first word doesn't get accepted or has already been used, press any key until the word is accepted, then press the key selected as the `confirm_key` again.
 - The cheat will wait for the key selected as the `escape_key` to send more messages.
